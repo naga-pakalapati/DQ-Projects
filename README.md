@@ -1,1 +1,1 @@
-# DQ-Designing-and-Creating-a-DB---SQLite
+# Information related to different projects worked on DQ
