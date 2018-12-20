@@ -1,4 +1,6 @@
-# Information related to different projects worked on DQ
-**Project-Designing and Creating DB using SQLite**
-  - Move pd dataframes to sqlite db
-  - Create and normalize db
+### Information related to different projects worked on DQ
+
+
+- Projects are in **.ipynb** file which contains all the code and analysis.
+- Each project also has a **.md** file with the same name, which provides info about the project and datasets.
+
